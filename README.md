@@ -1,4 +1,4 @@
-### four_dof_manipulator_moveit
+## four_dof_manipulator_moveit
 ### Graduation Project 2020-2021: Simulation of Serial and Parallel Manipulators in ROS<br></br>
 
 ###### An inverse kinematics application with "MoveIt!". This application is a second step of the "four_dof_manipulator" project.
